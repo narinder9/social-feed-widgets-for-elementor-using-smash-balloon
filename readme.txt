@@ -79,7 +79,8 @@ Yes, you can connect your social account easily using Smash Balloon social photo
 == Changelog ==
 <strong>Version 1.0.4 | 21 Nov 2022</strong>
 <pre>
-improved:Minor textual changes
+improved:improved wrong spells
+Fixed:Minor issue
 </pre>
 <strong>Version 1.0.3 | 19 Nov 2022</strong>
 <pre>
