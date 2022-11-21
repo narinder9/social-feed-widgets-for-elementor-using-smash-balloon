@@ -3,7 +3,7 @@
  * Plugin Name: Social Feed Widgets For Elementor Using Smash Balloon
  * Description: Social Feed Widget Addon For Elementor create social feed in page and post.
  * Plugin URI:  https://coolplugins.net
- * Version:     1.0.3
+ * Version:     1.0.4
  * Author:      Cool Plugins
  * Author URI:  https://coolplugins.net/
  * Text Domain: sfafe
@@ -18,7 +18,7 @@ if (defined('SFAFE_VERSION')) {
     return;
 }
 
-define('SFAFE_VERSION', '1.0.3');
+define('SFAFE_VERSION', '1.0.4');
 define('SFAFE_FILE', __FILE__);
 define('SFAFE_PATH', plugin_dir_path(SFAFE_FILE));
 define('SFAFE_URL', plugin_dir_url(SFAFE_FILE));
