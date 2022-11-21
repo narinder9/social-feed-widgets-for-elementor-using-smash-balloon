@@ -36,19 +36,6 @@ Advance settings to adjust your social photo visibility - border, radius, spacin
 * Hide / show your likes, comments & captions (for business profiles).
 * Overlay hover effects.
 
-### 😎 Who's Behind
-
-This plugin is not developed by or affiliated with "**Elementor**" or "**Smash Balloon**".
-
-**[🔗 Cool Plugins](https://coolplugins.net)** is a team of experienced WordPress plugin developers who manages this addon/plugin. Here are a few words about company:-
-
-* 5+ years WordPress plugin development experience.
-* 20+ free and premium WordPress plugins released.
-* 1000000+ plugins downloads.
-* 150K+ active websites are using our plugins.
-
-> We provide cool solutions to extend the functionalities of famous WordPress plugins!
-
 ### ✍ Special THANKS!
 
 Special thanks to 🎈 **Smash Balloon** 🎈 development team for creating awesome plugins to manage social feed for Instagram, Facebook, Twitter etc.
@@ -82,6 +69,7 @@ Yes, you can connect your social account easily using Smash Balloon social photo
 improved:improved wrong spells
 Fixed:Minor issue
 </pre>
+
 <strong>Version 1.0.3 | 19 Nov 2022</strong>
 <pre>
 Fixed:Connect to instagram account issue.
