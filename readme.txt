@@ -77,6 +77,10 @@ Yes, you can connect your social account easily using Smash Balloon social photo
 3. Elementor Social Feed Widget Settings
 
 == Changelog ==
+<strong>Version 1.0.4 | 21 Nov 2022</strong>
+<pre>
+improved:Minor textual changes
+</pre>
 <strong>Version 1.0.3 | 19 Nov 2022</strong>
 <pre>
 Fixed:Connect to instagram account issue.
