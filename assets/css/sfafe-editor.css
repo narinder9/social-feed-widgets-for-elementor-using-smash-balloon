@@ -1,0 +1,21 @@
+select[name="sfafe_feed_type"] {
+    width: 52%;
+    float: right;
+}
+
+
+select[name="sfafe_feed_type"] option:disabled {
+    background: #e8e8e8db;
+}
+
+
+.sfafe-logo-icon::before {
+    z-index: -1;
+    opacity: 0;
+}
+
+i.eicon-instagram-post.sfafe-logo-icon {
+    background-image: url('../images/instagram-feed.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
